@@ -1,0 +1,16 @@
+{
+  "name": "despliegue01",
+  "version": "1.0.0",
+  "description": "Proyecto simple de despliegue con Node.js",
+  "main": "index.js",
+  "author": "Sergio Vilca Ayaque",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
